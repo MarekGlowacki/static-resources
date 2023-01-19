@@ -1,13 +1,13 @@
-package onlinejavafun.staticresources;
+package onlinejavafun.home;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StaticResourcesApplicationTests {
+class HomeApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
